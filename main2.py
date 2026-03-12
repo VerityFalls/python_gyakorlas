@@ -6,7 +6,7 @@ def feldolgozas(kerdes):
         print(betu)
         if betu in ("0" "1" "2" "3" "4" "5" "6" "7" "8" "9"):
             if betu in szamjegyek:
-            szamjegyek[betu] += 1
+             szamjegyek[betu] += 1
 
 
 
